@@ -1,9 +1,10 @@
 import './App.css';
+import AppName from './components/AppName'
 
 function App() {
   return (
     <div className="App">
-      Git hub app
+      <AppName />
     </div>
   );
 }
